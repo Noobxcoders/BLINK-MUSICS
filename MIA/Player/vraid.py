@@ -270,7 +270,7 @@ async def vraid(c: MIA, m: Message):
 
 
 @MIA.on_message(filters.user(SUDO_USERS) & filters.command(["vraidlive", "vraidstream"], prefixes=HNDLR))
-async def raidlive(c: NIXA, m: Message):
+async def raidlive(c: MIA, m: Message):
     await m.delete()
     chat_id = m.chat.id
     user_id = m.from_user.id
