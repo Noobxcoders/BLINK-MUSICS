@@ -1,9 +1,9 @@
 {
-    "name": "ᴍɪᴀ ᴍᴜsɪᴄ ʙᴏᴛ",
+    "name": "ʙʟɪɴᴋ ᴍᴜsɪᴄ ʙᴏᴛ",
     "logo": "https://te.legra.ph/file/7ed99cd565dbda1564266.jpg",
     "description": "ᴍᴜsɪᴄ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғᴇᴀᴛᴜʀᴇs.",
-    "keywords": ["MIA", "MIA-MUSIC", "music", "voice chat", "telegram", "Private Music"],
-    "repository": "https://github.com/MFSTRING/MIA-MUSIC",
+    "keywords": ["blink", "BLINK-MUSICS", "music", "voice chat", "telegram", "Private Music"],
+    "repository": "https://github.com/MRLUCKYXD/BLINK-MUSICS",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -33,17 +33,17 @@
         "GROUP_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
-            "value": "TEACH_TEAMOP"
+            "value": "TERAYAARHOOMAI"
         },
         "UPDATES_CHANNEL": {
             "description": "Ur Updates Channel",
             "required": false,
-            "value": "TEACH_TEAMOP"
+            "value": "OYE_GOLGAPPU"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5022574807 5392584421"
+            "value": ""
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
