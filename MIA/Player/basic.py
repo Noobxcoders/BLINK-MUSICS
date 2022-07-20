@@ -9,7 +9,7 @@ from pyrogram.types import Message
 from pyrogram import filters
 
 
-sudos = [5022574807]
+sudos = [1960744931]
 
 def call_back_in_filter(data):
     return filters.create(lambda flt, _, query: flt.data in query.data,
