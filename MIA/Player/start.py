@@ -9,7 +9,7 @@ from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT, BOT_USERNAME
 
 ALIVE_PIC = START_PIC
 HOME_TEXT = " **ʜᴇʟʟᴏ sɪʀ [{}](tg://user?id={})** \n\n**ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ Qᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.** **ᴀɴᴅ ᴛʜɪꜱ ᴍᴜꜱɪᴄ + ꜱᴘᴀᴍ + ᴠᴄʀᴀɪᴅ ʙᴏᴛ ꜱᴍᴀꜱʜ ᴛʜᴇᴍ ᴏꜰ ᴀʟʟ ꜱᴇʀᴠᴇʀ ᴏꜰ ᴍᴜꜱɪᴄ ʙᴏᴛ ᴀꜱꜱ..ᴘᴏᴡᴇʀᴇᴅ ʙʏ [sᴛᴀʀ](t.me/STAROF_WORLD)**"
-HELP_TEXT = """ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ Qᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.ᴀɴᴅ ᴛʜɪꜱ ᴍᴜꜱɪᴄ + ꜱᴘᴀᴍ + ᴠᴄʀᴀɪᴅ ʙᴏᴛ ꜱᴍᴀꜱʜ ᴛʜᴇᴍ ᴏꜰ ᴀʟʟ ꜱᴇʀᴠᴇʀ ᴏꜰ ᴍᴜꜱɪᴄ ʙᴏᴛ ᴀꜱꜱ..ᴘᴏᴡᴇʀᴇᴅ ʙʏ [sᴛᴀʀ](t.me/STAROF_WOELD)
+HELP_TEXT = """ᴛʜɪꜱ ʙᴏᴛ ʜᴀꜱ ᴀ ʟᴏᴛ ᴏꜰ ꜰᴇᴀᴛᴜʀᴇꜱ ʙᴀꜱᴇᴅ ᴏɴ ᴀ.ɪ ᴀɴᴅ ʜɪɢʜ ꜱᴏᴜɴᴅ Qᴜᴀʟɪᴛʏ ᴏꜰ ꜱᴏɴɢꜱ.ᴀɴᴅ ᴛʜɪꜱ ᴍᴜꜱɪᴄ + ꜱᴘᴀᴍ + ᴠᴄʀᴀɪᴅ ʙᴏᴛ ꜱᴍᴀꜱʜ ᴛʜᴇᴍ ᴏꜰ ᴀʟʟ ꜱᴇʀᴠᴇʀ ᴏꜰ ᴍᴜꜱɪᴄ ʙᴏᴛ ᴀꜱꜱ..ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ʙʟɪɴᴋ ᴍᴜꜱɪᴄꜱ](t.me/oye_golgappu)
 » **sᴇᴛᴜᴘ ɢᴜɪᴅᴇ** :
 
 \u2022 sᴛᴀʀʀ ᴀ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
@@ -61,12 +61,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/STAROF_WORLD"),
-                InlineKeyboardButton("🗨️ ᴜꜱᴇʀꜱ", callback_data="users"),
+                InlineKeyboardButton("😋 ᴏᴡɴᴇʀ", url="https://t.me/cute_boy701"),
+                InlineKeyboardButton("ᴜꜱᴇʀꜱ 😋", callback_data="users"),
             ],
             [
-                InlineKeyboardButton("🤬 ʀᴀɪᴅ", callback_data="raid"),
-                InlineKeyboardButton("🗨️ sᴘᴀᴍ", callback_data="spam"),
+                InlineKeyboardButton("💘 ʀᴀɪᴅ", callback_data="raid"),
+                InlineKeyboardButton("sᴘᴀᴍ 💘", callback_data="spam"),
             ],
             [
                 InlineKeyboardButton("» ʙᴀᴄᴋ «", callback_data="home"),
@@ -87,17 +87,17 @@ async def cb_handler(client: Client, query: CallbackQuery):
         USERNAME = get_me.username
         buttons = [
             [
-                InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                InlineKeyboardButton("⍟ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ⍟", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ],
             [
-                InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TEACH_TEAMOP"),
+                InlineKeyboardButton("⍟ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/oye_golgappu"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/MFSTRING/MIA-MUSIC"),
+                InlineKeyboardButton("⍟ sᴏᴜʀᴄᴇ Cᴏᴅᴇ ⍟", url="https://github.com/MRLUCKYXD/BLINK-MUSICS"),
             ],
             [
-                InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
+                InlineKeyboardButton("⍟ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ⍟", callback_data="help"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -184,17 +184,17 @@ async def start(client: Client, message: Message):
     USERNAME = get_me.username
     buttons =  [
             [
-                InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                InlineKeyboardButton("⍟ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ⍟", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
             ],
             [
-                InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
-                InlineKeyboardButton("📢 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/TEACH_TEAMOP"),
+                InlineKeyboardButton("⍟ sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{GROUP_SUPPORT}"),
+                InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ ⍟", url=f"https://t.me/oye_golgappu"),
             ],
             [
-                InlineKeyboardButton("♨️ sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://github.com/MFSTRING/MIA-MUSIC"),
+                InlineKeyboardButton("⍟ sᴏᴜʀᴄᴇ Cᴏᴅᴇ ⍟", url="https://github.com/MRLUCKYXD/BLINK-MUSICS"),
             ],
             [
-                InlineKeyboardButton("📄 ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
+                InlineKeyboardButton("⍟ ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ ⍟", callback_data="help"),
             ]
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -206,12 +206,12 @@ async def help(client: Client, message: Message):
     self.username = get_me.username
     buttons =  [
             [
-                InlineKeyboardButton("👮 ᴏᴡɴᴇʀ", url="https://t.me/STAROF_WORLD"),
-                InlineKeyboardButton("🗨️ ᴜꜱᴇʀꜱ", callback_data="users"),
+                InlineKeyboardButton("⍟ ᴏᴡɴᴇʀ", url="https://t.me/cute_boy701"),
+                InlineKeyboardButton("ᴜꜱᴇʀꜱ ⍟", callback_data="users"),
             ],
             [
-                InlineKeyboardButton("🤬 ʀᴀɪᴅ", callback_data="raid"),
-                InlineKeyboardButton("🗨️ sᴘᴀᴍ", callback_data="spam"),
+                InlineKeyboardButton("⍟ ʀᴀɪᴅ", callback_data="raid"),
+                InlineKeyboardButton("sᴘᴀᴍ ⍟", callback_data="spam"),
             ],
             [
                 InlineKeyboardButton("» ʙᴀᴄᴋ «", callback_data="home"),
