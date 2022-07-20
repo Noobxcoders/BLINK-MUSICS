@@ -145,7 +145,7 @@ async def vplay(c: Client, m: Message):
                 await m.reply_photo(
                     photo=thumbnail,
                     reply_markup=InlineKeyboardMarkup(buttons),
-                    caption=f"» **ᴛʀᴀᴄᴋ ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ »** `{pos}`\n\n🗂 **ɴᴀᴍᴇ:** [{songname}]({link}) | `ᴠɪᴅᴇᴏ`\n💭 **ᴄʜᴀᴛ:** `{chat_id}`\n🧸 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
+                    caption=f"» **ᴛʀᴀᴄᴋ ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ »** `{pos}`\n\n❄️ **ɴᴀᴍᴇ:** [{songname}]({link}) | `ᴠɪᴅᴇᴏ`\n💭 **ᴄʜᴀᴛ:** `{chat_id}`\n💘 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
                 )
             else:
                 if Q == 720:
@@ -171,7 +171,7 @@ async def vplay(c: Client, m: Message):
                 await m.reply_photo(
                     photo=thumbnail,
                     reply_markup=InlineKeyboardMarkup(buttons),
-                    caption=f"🗂 **ɴᴀᴍᴇ:** [{songname}]({link}) | `ᴠɪᴅᴇᴏ`\n💭 **ᴄʜᴀᴛ:** `{chat_id}`\n🧸 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
+                    caption=f"❄️ **ɴᴀᴍᴇ:** [{songname}]({link}) | `ᴠɪᴅᴇᴏ`\n💭 **ᴄʜᴀᴛ:** `{chat_id}`\n💘 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
                 )
         else:
             if len(m.command) < 2:
@@ -182,8 +182,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/TEACH_TEAMOP"),
-                            InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TEACH_TEAMOP")
+                            InlineKeyboardButton("🍹 sᴜᴘᴘᴏʀᴛ", url="https://t.me/terayaarhoomai"),
+                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🍹", url="https://t.me/oye_golgappu")
                         ],
                         [
                             InlineKeyboardButton("• ᴄʟᴏsᴇ •", callback_data="cls")
@@ -244,7 +244,7 @@ async def vplay(c: Client, m: Message):
                                 await m.reply_photo(
                                     photo=image,
                                     reply_markup=InlineKeyboardMarkup(buttons),
-                                    caption=f"🗂 **ɴᴀᴍᴇ:** [{songname}]({url}) | `ᴠɪᴅᴇᴏ`\n⏱ **ᴅᴜʀᴀᴛɪᴏɴ:** `{duration}`\n🧸 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
+                                    caption=f"❄️ **ɴᴀᴍᴇ:** [{songname}]({url}) | `ᴠɪᴅᴇᴏ`\n⏱ **ᴅᴜʀᴀᴛɪᴏɴ:** `{duration}`\n💘 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
                                 )
                             except Exception as ep:
                                 await loser.delete()
@@ -259,8 +259,8 @@ async def vplay(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/TEACH_TEAMOP"),
-                            InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TEACH_TEAMOP")
+                            InlineKeyboardButton("🍹 sᴜᴘᴘᴏʀᴛ", url="https://t.me/Terayaarhoomai"),
+                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🍹", url="https://t.me/oye_golgappu")
                         ],
                         [
                             InlineKeyboardButton("• ᴄʟᴏsᴇ •", callback_data="cls")
@@ -319,7 +319,7 @@ async def vplay(c: Client, m: Message):
                             await m.reply_photo(
                                 photo=image,
                                 reply_markup=InlineKeyboardMarkup(buttons),
-                                caption=f"🗂 **ɴᴀᴍᴇ:** [{songname}]({url}) |`ᴠɪᴅᴇᴏ`\n⏱ **ᴅᴜʀᴀᴛɪᴏɴ:** `{duration}`\n🧸 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
+                                caption=f"❄️ **ɴᴀᴍᴇ:** [{songname}]({url}) |`ᴠɪᴅᴇᴏ`\n⏱ **ᴅᴜʀᴀᴛɪᴏɴ:** `{duration}`\n💘 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ:** {requester}",
                             )
                         except Exception as ep:
                             await loser.delete()
