@@ -129,8 +129,8 @@ async def vraid(c: MIA, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/TEACH_TEAMOP"),
-                            InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TEACH_TEAMOP")
+                            InlineKeyboardButton("🍹 sᴜᴘᴘᴏʀᴛ", url="https://t.me/Terayaarhoomai"),
+                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🍹", url="https://t.me/oye_golgappu")
                         ],
                         [
                             InlineKeyboardButton("• ᴄʟᴏsᴇ •", callback_data="cls")
@@ -204,8 +204,8 @@ async def vraid(c: MIA, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("👥 sᴜᴘᴘᴏʀᴛ", url="https://t.me/TEACH_TEAMOP"),
-                            InlineKeyboardButton("📢 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/TEACH_TEAMOP")
+                            InlineKeyboardButton("🍹 sᴜᴘᴘᴏʀᴛ", url="https://t.me/TEACH_TEAMOP"),
+                            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs 🍹", url="https://t.me/TEACH_TEAMOP")
                         ],
                         [
                             InlineKeyboardButton("• ᴄʟᴏsᴇ •", callback_data="cls")
