@@ -27,9 +27,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrluckyxd/BLINK-MUSICS)
 
-### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://telegram.me/terayaarhoomai"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/oye_golgappu"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
-
 ## ᴡᴏʀᴋꜰʟᴏᴡꜱ ʜᴏꜱᴛɪɴɢ
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɪᴍᴘᴏʀᴛ ᴛʜɪꜱ ᴄᴏᴅᴇ. ʜᴏᴡ ᴛᴏ ʜᴏꜱᴛ? ꜱɪᴍᴘʟʏ ɪᴍᴘᴏʀᴛ ᴛʜɪꜱ ᴄᴏᴅᴇ ᴛʜᴇɴ ꜰɪʟʟ ʏᴏᴜʀ ᴠᴀʀꜱ ɪɴ ᴄᴏɴꜰɪɢ.ᴘʏ ᴛʜᴇɴ ɢᴏ ᴛᴏ ᴀᴄᴛɪᴏɴꜱ ᴀɴᴅ ᴄʜᴇᴄᴋ ʙᴜɪʟᴅ ʟᴏɢꜱ and check build logs!</h4>
@@ -39,12 +36,15 @@
 ## 🚀 ᴏᴋᴛᴇᴛᴏ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ!</h4>
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/BLINK-MUSICS"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/mrluckyxd/BLINK-MUSICS"><img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴏᴋᴛᴇᴛᴏ-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/mrluckyxd/BLINK-MUSICS), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/MRLUCKYXD/BLINK-MUSICS-Deploy&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/MRLUCKYXD/BLINK-MUSICS-Deploy&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ʀᴀɪʟᴡᴀʏ-pink?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
+
+### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
+<a href="https://telegram.me/terayaarhoomai"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://telegram.me/oye_golgappu"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 
 
