@@ -106,7 +106,7 @@ async def generate_cover(thumbnail, title, userid, ctitle):
                 await f.write(await resp.read())
                 await f.close()
     image1 = Image.open(f"thumb{userid}.png")
-    image2 = Image.open("Process/ImageFont/Grey.png")
+    image2 = Image.open("Process/ImageFont/grey.png")
     image3 = changeImageSize(1280, 720, image1)
     image4 = changeImageSize(1280, 720, image2)
     image5 = image3.convert("RGBA")
