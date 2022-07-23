@@ -14,7 +14,7 @@ from datetime import datetime
 hl = '/'
 deadlyversion = 'sᴘᴀᴍʙᴏᴛ 2.0'
 
-MIA_PIC = "https://te.legra.ph/file/7ed99cd565dbda1564266.jpg"
+MIA_PIC = "https://telegra.ph/file/8ac73da2a18aef2db211d.jpg"
   
 
 DEADLY = "    ᴍᴜsɪᴄ sᴘᴀᴍ ʙᴏᴛ\n\n"
@@ -32,12 +32,9 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/TEACH_TEAMOP"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/TEACH_TEAMOP")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/oye_golgappu"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/terayaarhoomai")
         ],
-        [
-        Button.url("ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ", "https://youtu.be/8nOVbhh_bFs")
-        ]
         ]
         )
     
