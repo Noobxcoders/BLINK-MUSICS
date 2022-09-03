@@ -6,7 +6,7 @@
 <p align="center">
     
 
-<details><summary> <h3><b>## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ</b></h3> </summary> 
+<details><summary> <h3><b>ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ !</b></h3> </summary> 
 
 - **ᴘʟᴀʏ ᴍᴜꜱɪᴄ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛꜱ!** (ꜱᴜᴘᴘᴏʀᴛꜱ ᴍᴜʟᴛɪᴘʟᴇ ɢʀᴏᴜᴘꜱ)
 - **ꜱᴜᴘᴘᴏʀᴛꜱ Qᴜᴇᴜᴇꜱ!**
@@ -22,7 +22,7 @@
 - **ʟᴏᴠᴇ ʀᴀɪᴅ**
 - **ᴠᴄ ʀᴀɪᴅ**
 - **ᴠɪᴅᴇᴏ ʀᴀɪᴅ**
-
+</details>
 <pre>
 <b><i>••ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ••</i></b>
 <p><a href="https://heroku.com/deploy?template=https://github.com/mrluckyxd/BLINK-MUSICS"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="200""/></a></p>
