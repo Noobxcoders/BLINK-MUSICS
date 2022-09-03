@@ -24,8 +24,8 @@
 - **ᴠɪᴅᴇᴏ ʀᴀɪᴅ**
 
 <pre>
-<b><i>••ᴅᴇᴘʟᴏʏ ᴇᴍɪᴋᴏ ʀᴏʙᴏᴛ ᴛᴏ ʜᴇʀᴏᴋᴜ••</i></b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/mrluckyxd/Emiko-robot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<b><i>••ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ••</i></b>
+<p><a href="https://heroku.com/deploy?template=https://github.com/mrluckyxd/BLINK-MUSICS"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 
 ## ᴡᴏʀᴋꜰʟᴏᴡꜱ
