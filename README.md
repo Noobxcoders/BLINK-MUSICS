@@ -29,10 +29,14 @@
 </pre>
 
 ## ᴡᴏʀᴋꜰʟᴏᴡꜱ
-
-<h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ\n ᴛᴏ ɪᴍᴘᴏʀᴛ ᴛʜɪꜱ ᴄᴏᴅᴇ. ʜᴏᴡ ᴛᴏ ʜᴏꜱᴛ?\n ꜱɪᴍᴘʟʏ ɪᴍᴘᴏʀᴛ ᴛʜɪꜱ ᴄᴏᴅᴇ ᴛʜᴇɴ ꜰɪʟʟ ʏᴏᴜʀ ᴠᴀʀꜱ ɪɴ ᴄᴏɴꜰɪɢ.ᴘʏ\n ᴛʜᴇɴ ɢᴏ ᴛᴏ ᴀᴄᴛɪᴏɴꜱ ᴀɴᴅ ᴄʜᴇᴄᴋ\n ʙᴜɪʟᴅ ʟᴏɢꜱ and check build logs!</h4>
+<pre>
+<h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ
+ᴛᴏ ɪᴍᴘᴏʀᴛ ᴛʜɪꜱ ᴄᴏᴅᴇ. ʜᴏᴡ ᴛᴏ ʜᴏꜱᴛ?
+ꜱɪᴍᴘʟʏ ɪᴍᴘᴏʀᴛ ᴛʜɪꜱ ᴄᴏᴅᴇ ᴛʜᴇɴ ꜰɪʟʟ 
+ʏᴏᴜʀ ᴠᴀʀꜱ ɪɴ ᴄᴏɴꜰɪɢ.ᴘʏ ᴛʜᴇɴ ɢᴏ ᴛᴏ ᴀᴄᴛɪᴏɴꜱ ᴀɴᴅ ᴄʜᴇᴄᴋ
+ʙᴜɪʟᴅ ʟᴏɢꜱ and check build logs!</h4>
 <p align="center"><a href="https://github.com/new/import"><img src="https://img.shields.io/badge/ᴡᴏʀᴋꜰʟᴏꜱ%20ᴅᴇᴘʟᴏʏ-pink?style=for-the-badge&logo=github" width="200""/></a>
-
+</pre>
 
 ## 🚀 ᴏᴋᴛᴇᴛᴏ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
@@ -43,7 +47,8 @@
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 <pre>
-ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ\n [ɴᴇᴄᴄᴇꜱꜱᴏʀʏ ᴠᴀʀɪᴇʙʟᴇꜱ ʜᴇʀᴇ](https://github.com/mrluckyxd/BLINK-MUSICS), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
+ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ
+[ɴᴇᴄᴄᴇꜱꜱᴏʀʏ ᴠᴀʀɪᴇʙʟᴇꜱ ʜᴇʀᴇ](https://github.com/mrluckyxd/BLINK-MUSICS), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
 <p align="center"><a href="https://railway.app/new/template?template=https://github.com/MRLUCKYXD/BLINK-MUSICS&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ʀᴀɪʟᴡᴀʏ-pink?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 </pre>
