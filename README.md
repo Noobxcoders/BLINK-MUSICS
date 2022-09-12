@@ -71,6 +71,6 @@ Advanced music bot of Telegram
 
 ## .ᴅᴇᴩʟᴏy.
 
-[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aryanve595/Starmusic)
+[![ᴢᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://github.com/MRLUCKYXD/BLINK-MUSICS)
 
 </p>
