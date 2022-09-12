@@ -1,9 +1,9 @@
 {
-    "name": "ʙʟɪɴᴋ ᴍᴜsɪᴄ ʙᴏᴛ",
+    "name": "opera ᴍᴜsɪᴄ ʙᴏᴛ",
     "logo": "https://te.legra.ph/file/7ed99cd565dbda1564266.jpg",
     "description": "ᴍᴜsɪᴄ ᴀʟʟᴏᴡ ʏᴏᴜ ᴛᴏ sᴛʀᴇᴀᴍ ᴍᴜsɪᴄ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ғᴇᴀᴛᴜʀᴇs.",
-    "keywords": ["blink", "BLINK-MUSICS", "music", "voice chat", "telegram", "Private Music"],
-    "repository": "https://github.com/MRLUCKYXD/BLINK-MUSICS",
+    "keywords": ["blink", "opera-MUSICS", "music", "voice chat", "telegram", "Private Music"],
+    "repository": "https://github.com/Aryanve595/BLINK-MUSICS",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
