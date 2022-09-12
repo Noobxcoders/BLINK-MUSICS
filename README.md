@@ -1,46 +1,39 @@
- <h2 align="centre">𝄞🆂🆃🅰🆁🌟🅼🆄🆂🅸🅲🎸</h2>
+ 
 
-Advanced music bot of Telegram 
 
-<p align="center"><a href="https://t.me/attitude_galaxy"><img src="https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg" width="300"></a></p>
 
-</p>
 
-## .🅡🅔🅟🅞 🅢🅣🅐🅣🅢.
-
-</p>
-
- <h2 align="centre">𝄞🆂🆃🅰🆁🌟🅼🆄🆂🅸🅲🎸</h2>
+<h2 align="centre">𝄞🆂🆃🅰🆁🌟🅼🆄🆂🅸🅲🎸</h2>
 
 2
 
 Advanced music bot of Telegram 
 
-3
 
-4
+
+
 
 <p align="center"><a href="https://t.me/attitude_galaxy"><img src="https://telegra.ph/file/8bc9caa4af8211efbe0e4.jpg" width="300"></a></p>
 
-5
 
-6
+
+
 
 </p>
 
-7
 
-8
+
+
 
 ## .🅡🅔🅟🅞 🅢🅣🅐🅣🅢.
 
-9
 
-10
+
+
 
 </p>
 
-11
+
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Aryanve595&repo=Starmusic&theme=dark)
 
